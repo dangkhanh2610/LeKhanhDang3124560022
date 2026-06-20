@@ -1,0 +1,4 @@
+node_modules/
+dít/
+.env
+.vite/
